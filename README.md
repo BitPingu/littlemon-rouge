@@ -1,6 +1,6 @@
 # Littlemon Rouge
 
-**Version 3.1**
+**Version 1.1**
 
 A command line game developed using Java.
 
