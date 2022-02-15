@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LittlemonCombustionRed-Part1:jar">
+    <output-path>$PROJECT_DIR$/../littlemon-rouge-releases</output-path>
+    <root id="archive" name="LittlemonCombustionRed-Part1.jar">
+      <element id="module-output" name="LittlemonCombustionRed-Part1" />
+    </root>
+  </artifact>
+</component>
